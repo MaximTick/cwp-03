@@ -1,0 +1,21 @@
+Creating file undefined\0\targetver.h
+Writing into file undefined\0\targetver.h
+Making dir for client files
+Starting accept files
+Connected new client: ID - 0
+Making dir for client files
+Starting accept files
+Connected new client: ID - 0
+Making dir for client files
+Starting accept files
+Connected new client: ID - 0
+Creating file undefined\0\targetver.h
+Writing into file undefined\0\targetver.h
+Creating file undefined\0\server.js
+Writing into file undefined\0\server.js
+Creating file undefined\0\qa.json
+Writing into file undefined\0\qa.json
+Creating file undefined\0\client-qa.js
+Writing into file undefined\0\client-qa.js
+Creating file undefined\0\client-files.js
+Writing into file undefined\0\client-files.js

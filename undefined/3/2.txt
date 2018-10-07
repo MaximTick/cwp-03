@@ -1,0 +1,40 @@
+Making dir for client files
+Starting accept files
+Connected new client: ID - 2
+Creating file undefined\2\server.js
+Writing into file undefined\2\server.js
+Creating file undefined\2\targetver.h
+Writing into file undefined\2\targetver.h
+Creating file undefined\2\server.js
+Writing into file undefined\2\server.js
+Creating file undefined\2\qa.json
+Writing into file undefined\2\qa.json
+Creating file undefined\2\client-qa.js
+Writing into file undefined\2\client-qa.js
+Creating file undefined\2\client-files.js
+Writing into file undefined\2\client-files.js
+Creating file undefined\2\0.txt
+Writing into file undefined\2\0.txt
+Creating file undefined\2\targetver.h
+Writing into file undefined\2\targetver.h
+Creating file undefined\2\server.js
+Writing into file undefined\2\server.js
+Creating file undefined\2\qa.json
+Writing into file undefined\2\qa.json
+Creating file undefined\2\client-qa.js
+Writing into file undefined\2\client-qa.js
+Creating file undefined\2\client-files.js
+Writing into file undefined\2\client-files.js
+Creating file undefined\2\0.txt
+Writing into file undefined\2\0.txt
+Creating file undefined\2\qa.json
+Writing into file undefined\2\qa.json
+Creating file undefined\2\client-qa.js
+Writing into file undefined\2\client-qa.js
+Creating file undefined\2\client-files.js
+Writing into file undefined\2\client-files.js
+Creating file undefined\2\1.txt
+Writing into file undefined\2\1.txt
+Creating file undefined\2\0.txt
+Writing into file undefined\2\0.txt
+client disconected
